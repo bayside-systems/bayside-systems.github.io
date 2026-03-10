@@ -1,0 +1,33 @@
+baseURL = "https://bayside.systems/"
+languageCode = "en-us"
+title = "Bayside Systems"
+copyright = "Bayside Systems, LLC. All rights reserved."
+
+[params]
+  tagline = "Engineering Advantage"
+  description = "Virginia Beach-based R&D firm specializing in cybersecurity, high-performance computing, AI/ML, and defense solutions."
+  location = "Virginia Beach, VA"
+  email = "info@bayside.systems"
+  github = "https://github.com/bayside-systems"
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+  [[menus.main]]
+    name = "Capabilities"
+    pageRef = "/capabilities"
+    weight = 20
+  [[menus.main]]
+    name = "Products"
+    pageRef = "/products"
+    weight = 30
+  [[menus.main]]
+    name = "Services"
+    pageRef = "/commercial"
+    weight = 35
+  [[menus.main]]
+    name = "Contact"
+    pageRef = "/contact"
+    weight = 40

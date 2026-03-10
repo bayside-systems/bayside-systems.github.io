@@ -1,0 +1,29 @@
+<footer class="site-footer">
+  <div class="footer-wave">
+    <svg viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,30 C240,50 480,10 720,30 C960,50 1200,10 1440,30 L1440,60 L0,60 Z" fill="#1a2744"/>
+    </svg>
+  </div>
+  <div class="footer-content">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <p class="footer-brand">Bayside Systems</p>
+        <p class="footer-location">{{ .Site.Params.location }}</p>
+      </div>
+      <div class="footer-col">
+        <p><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+        {{ with .Site.Params.github }}<p><a href="{{ . }}" class="footer-github">GitHub Repositories</a></p>{{ end }}
+      </div>
+      <div class="footer-col">
+        <nav class="footer-nav">
+          {{ range .Site.Menus.main }}
+          <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ end }}
+        </nav>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ now.Year }} {{ .Site.Copyright }}</p>
+    </div>
+  </div>
+</footer>

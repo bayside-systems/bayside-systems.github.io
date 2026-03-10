@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#1a2744"/>
+  
+  <!-- Shovel icon -->
+  <path d="M16 6 L16 18 M12 18 L16 26 L20 18" 
+        stroke="#d4a574" 
+        stroke-width="2" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none"/>
+  
+  <!-- Shovel blade -->
+  <path d="M11 18 Q16 24 21 18 Q18 20 16 20 Q14 20 11 18" 
+        fill="#d4a574"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:50959/products/xones/</loc>
+  </url><url>
+    <loc>http://localhost:50959/products/partixen/</loc>
+  </url><url>
+    <loc>http://localhost:50959/products/undentity/</loc>
+  </url><url>
+    <loc>http://localhost:50959/commercial/</loc>
+  </url><url>
+    <loc>http://localhost:50959/</loc>
+  </url><url>
+    <loc>http://localhost:50959/capabilities/</loc>
+  </url><url>
+    <loc>http://localhost:50959/categories/</loc>
+  </url><url>
+    <loc>http://localhost:50959/contact/</loc>
+  </url><url>
+    <loc>http://localhost:50959/products/</loc>
+  </url><url>
+    <loc>http://localhost:50959/tags/</loc>
+  </url>
+</urlset>
