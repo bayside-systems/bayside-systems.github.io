@@ -8,8 +8,8 @@ Bayside Systems builds products for the next generation of AI infrastructure. Ea
 ## Product Lineup
 
 ### [Wave.next](/products/wave.next)
-**Collaborative Secure Enclaves**  
-A "batteries included" environment where humans and AI agents collaborate safely. Built-in security, compliance, and governance for agent-human teamwork.
+**Shared Document Workspace**  
+Live CRDT collaborative editing with per-contributor attribution, full history, and invitations — plus configurable agent collaborators that can revise shared documents.
 
 ### [Bayside Virtualization Platform](/products/bayside-virtualization-platform)
 **Isolated Workloads as Xen Domains**  

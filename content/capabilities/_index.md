@@ -20,8 +20,8 @@ We design and deploy production-grade AI systems that run where you need them �
 
 The era of autonomous agents is here. We're building the secure operating environments that let people and AI agents collaborate safely.
 
-**Wave.next** — Collaborative Secure Enclaves  
-Wave.next provides a secure environment where humans and agents work together with built-in security, compliance, and governance. Think of it as a "batteries included" workspace for agent-human collaboration.
+**Wave.next** — Shared Document Workspace  
+Wave.next provides live CRDT collaborative editing with per-contributor attribution, full history, and invitations, plus configurable agent collaborators that can revise shared documents when addressed from the discussion pane.
 
 **Bayside Virtualization Platform** — Isolated Workloads as Xen Domains  
 The platform runs each workload as a Xen domain on one computer. Hardware, storage, networking, policy, and the operator interface each run in their own domains, with XSM/FLASK policy enforcement, MLS/MCS tenant labels, and measured boot — so a compromised workload stays inside its own domain.
