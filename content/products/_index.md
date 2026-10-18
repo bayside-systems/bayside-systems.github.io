@@ -9,7 +9,7 @@ Bayside Systems builds products for the next generation of AI infrastructure. Ea
 
 ### [Wave.next](/products/wave.next)
 **Shared Document Workspace**  
-Live CRDT collaborative editing with per-contributor attribution, full history, and invitations — plus configurable agent collaborators that can revise shared documents.
+Live collaborative editing with per-contributor attribution, full history, and invitations — plus configurable AI agent collaborators that can revise shared documents.
 
 ### [Bayside Virtualization Platform](/products/bayside-virtualization-platform)
 **Isolated Workloads as Xen Domains**  

@@ -28,7 +28,7 @@ We offer professional services to commercial clients for:
 
 ## Our Products
 
-- [**Wave.next**](/products/wave.next) — Shared document workspace with live CRDT editing, contributor attribution, and configurable agent collaborators
+- [**Wave.next**](/products/wave.next) — Shared document workspace with live collaborative editing, contributor attribution, and AI agent collaborators
 - [**Bayside Virtualization Platform**](/products/bayside-virtualization-platform) — Isolated workloads as Xen domains, with hardware, storage, networking, and policy in separate domains
 - [**undentity**](/products/undentity) — Disposable identity platform
 
