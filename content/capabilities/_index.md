@@ -23,8 +23,8 @@ The era of autonomous agents is here. We're building the secure operating enviro
 **Xones** — Collaborative Secure Enclaves  
 Xones provides a secure environment where humans and agents work together with built-in security, compliance, and governance. Think of it as a "batteries included" workspace for agent-human collaboration.
 
-**PartiXen** — The Secure AI Sandbox  
-A hardened, isolated execution environment for AI agents. PartiXen provides strong isolation, mediated tool use, controlled context windows, and full data-flow visibility — so untrusted models and agents can run against sensitive workloads without putting the rest of your system at risk.
+**Bayside Virtualization Platform** — Isolated Workloads as Xen Domains  
+The platform runs each workload as a Xen domain on one computer. Hardware, storage, networking, policy, and the operator interface each run in their own domains, with XSM/FLASK policy enforcement, MLS/MCS tenant labels, and measured boot — so a compromised workload stays inside its own domain.
 
 ## Identity & Verification
 

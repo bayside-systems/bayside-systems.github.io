@@ -11,9 +11,9 @@ Bayside Systems builds products for the next generation of AI infrastructure. Ea
 **Collaborative Secure Enclaves**  
 A "batteries included" environment where humans and AI agents collaborate safely. Built-in security, compliance, and governance for agent-human teamwork.
 
-### [PartiXen](/products/partixen)
-**The Secure AI Sandbox**  
-A hardened, isolated execution environment for AI agents. Strong isolation, mediated tool use, controlled context, and full data-flow visibility — so a compromised agent can't compromise the system around it.
+### [Bayside Virtualization Platform](/products/bayside-virtualization-platform)
+**Isolated Workloads as Xen Domains**  
+Hardware, storage, networking, policy, and the operator interface run in separate domains on one computer. Domain-level isolation, hypervisor policy, measured boot, and operator consoles for computelets, container VMs, and Kubernetes workloads.
 
 ### [undentity](/products/undentity)
 **Disposable Identity Platform**  
