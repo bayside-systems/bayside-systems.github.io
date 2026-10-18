@@ -28,7 +28,7 @@ We offer professional services to commercial clients for:
 
 ## Our Products
 
-- [**Xones**](/products/xones) — Collaborative secure enclaves for human-AI teamwork
+- [**Wave.next**](/products/wave.next) — Collaborative secure enclaves for human-AI teamwork
 - [**Bayside Virtualization Platform**](/products/bayside-virtualization-platform) — Isolated workloads as Xen domains, with hardware, storage, networking, and policy in separate domains
 - [**undentity**](/products/undentity) — Disposable identity platform
 

@@ -7,7 +7,7 @@ Bayside Systems builds products for the next generation of AI infrastructure. Ea
 
 ## Product Lineup
 
-### [Xones](/products/xones)
+### [Wave.next](/products/wave.next)
 **Collaborative Secure Enclaves**  
 A "batteries included" environment where humans and AI agents collaborate safely. Built-in security, compliance, and governance for agent-human teamwork.
 
